@@ -1,0 +1,10 @@
+* {
+    font-family: Roboto, Arial, Helvetica, sans-serif;
+}
+
+header,
+footer,
+.banner {
+    background-color: #1f2937;
+    color: #f9faf8;
+}
